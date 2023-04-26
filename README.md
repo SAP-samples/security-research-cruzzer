@@ -165,7 +165,7 @@ _______________
 
 ## Known flaws
 - no CookieStore clearing strategy yet
-- some hyperparameters than are not yet configurable
+- some hyperparameters are not yet configurable
 
 ## How to obtain support
 
