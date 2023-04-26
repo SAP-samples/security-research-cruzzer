@@ -163,8 +163,7 @@ _______________
 
 ```
 
-## known flaws
-- radio button not yet implemented
+## Known flaws
 - no CookieStore clearing strategy yet
 - some hyperparameters than are not yet configurable
 
