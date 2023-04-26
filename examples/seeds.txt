@@ -1,0 +1,11 @@
+hello world
+Thomas
+1234567890
+{}[]%$#@!~`
+' OR 1=1; --
+<script>alert('XSS')</script>
+cn=admin,cn=users,dc=example,dc=com
+//*[@id=\"test\"]
+<?xml version=\"1.0\" encoding=\"UTF-8\"?><!DOCTYPE foo [<!ENTITY xxe SYSTEM \"file:///etc/passwd\" >]><foo>&xxe;</foo>
+test.test@testestest.com
+${jndi:ldap://localhost:1389/a}
